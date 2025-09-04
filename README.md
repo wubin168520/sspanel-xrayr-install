@@ -22,7 +22,7 @@ sudo bash sspanel-uim-oneclick.sh
 ### 方式二：从 GitHub Raw 一键执行（建库后）
 把脚本提交到你的仓库后，将用户名与仓库替换成你自己的：
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/<你的GitHub用户名>/<你的仓库>/main/sspanel-uim-oneclick.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wubin168520/sspanel-xrayr-install/main/sspanel-uim-oneclick.sh)
 ```
 
 ---
