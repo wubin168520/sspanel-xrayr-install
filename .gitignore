@@ -1,0 +1,16 @@
+# Compiled / temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
